@@ -9,6 +9,7 @@ use SilverStripe\ORM\Map;
 use SilverStripe\Control\Controller;
 use SilverStripe\View\Requirements;
 use SilverStripe\Forms\FormField;
+use SilverStripe\CMS\Controllers\CMSMain;
 
 /**
  * Class DependentDropdownField
